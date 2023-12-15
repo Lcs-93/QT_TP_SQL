@@ -1,4 +1,4 @@
-# PROJET JOUEUR DE FOOT permet d'afficher des joueur et foot et rentrer une note de match.
+# PROJET JOUEUR DE FOOT permet d'afficher des joueur de foot et rentrer une note de match.
 
  ## Prérequis - il faut installer QT et WORKBENCH 
 - video QT CREATOR : https://www.youtube.com/watch?v=JDIV3DZTWSY
