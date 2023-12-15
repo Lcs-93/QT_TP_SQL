@@ -9,7 +9,8 @@
 - Configuration de la Base de Données Sur Windows vous devez Utilisez le connecteur MySQL ODBC : - Téléchargez et installez le [pilote MySQL ODBC](https://dev.mysql.com/downloads/connector/odbc/).
 - dans le fichier widget.cpp utilisez cette les lignes de commande pour connecté le programme avec la BDD :
    
- db = QSqlDatabase::addDatabase("QODBC"); et 
+ db = QSqlDatabase::addDatabase("QODBC"); 
+ 
  db.setDatabaseName("Driver={MySQL ODBC 8.2 ANSI Driver};DATABASE=player;");
 
 - le fichier est déja formaté pour windows vous n'aurez pas a changé .
