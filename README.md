@@ -28,7 +28,7 @@
 utilisez le fichier player_jeu.sql et l'ouvrir avec workbench puis executé afin d'obtenir la base de données.
 
 ## Utilisation  Compilez et exécutez le programme.
-  -L'interface graphique s'ouvrira.
-  -Interagissez avec l'interface pour afficher et noter les joueurs.
+-L'interface graphique s'ouvrira
+-Interagissez avec l'interface pour afficher et noter les joueurs.
  ## Fonctionnalités - Affichage des joueurs depuis la base de données.
  - Ajout de notes aux joueurs avec vérification de la limite à 10.
