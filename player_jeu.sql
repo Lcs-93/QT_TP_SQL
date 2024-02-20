@@ -39,7 +39,7 @@ CREATE TABLE `jeu` (
 
 LOCK TABLES `jeu` WRITE;
 /*!40000 ALTER TABLE `jeu` DISABLE KEYS */;
-INSERT INTO `jeu` VALUES (1,'Lucas','bailly','FC BARCELONE',19,1),(2,'Mahamadou','Malien','CONGO',19,10),(3,'Berco','Couille','ANANASIKIM',19,1),(4,'Mehdi','Arabe','FC GANG',19,1),(5,'MOHAMED','BOULATIKA','FC PRISON',19,1);
+INSERT INTO `jeu` VALUES (1,'Lucas','bailly','FC BARCELONE',19,1),(2,'Mahamadou','cisse','FC BARCELONE',19,10),(3,'Berco','ERSSAN','BESIKTAS',19,1),(4,'Mehdi','ARIBI','REAL',19,1),(5,'MOHAMED','BOULATIKA','ALGERIE',19,1);
 /*!40000 ALTER TABLE `jeu` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
